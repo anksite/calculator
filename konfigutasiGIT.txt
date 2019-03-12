@@ -1,0 +1,2 @@
+gitconfig--globaluser.name "anksite"
+gitconfig--globaluser.email "adnankurniawan98@gmail.com"
